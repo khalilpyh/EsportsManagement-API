@@ -1,5 +1,5 @@
 # EsportsManagementAPI
-ASP.NET WebApi
+Tools: ASP.NET WebApi, Entity Framework, Visual Studio, SQLite
 
 Maintaining Esports games, teams, and players records.
 
