@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "apis1": {
+      "ignored": "true",
+      "type": "apis.azure"
+    },
+    "mssql1": {
+      "ignored": "true",
+      "type": "mssql"
+    }
+  }
+}

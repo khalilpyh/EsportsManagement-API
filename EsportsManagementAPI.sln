@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsportsManagementAPI", "EsportsManagementAPI\EsportsManagementAPI.csproj", "{9585E429-F9E1-41D9-8B67-AD7A80CD9E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9585E429-F9E1-41D9-8B67-AD7A80CD9E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9585E429-F9E1-41D9-8B67-AD7A80CD9E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9585E429-F9E1-41D9-8B67-AD7A80CD9E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9585E429-F9E1-41D9-8B67-AD7A80CD9E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33349FDC-7B35-4124-92EF-7DC402DDE4FD}
+	EndGlobalSection
+EndGlobal

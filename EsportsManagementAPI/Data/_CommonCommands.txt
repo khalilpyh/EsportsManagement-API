@@ -1,0 +1,10 @@
+﻿
+
+Add-Migration -Context EsportsManagementContext -o Data\EsportsManagementMigrations Initial
+
+Update-Database -Context EsportsManagementContext 
+
+Put at end of Up() 
+
+Add To Migration:
+ExtraMigration.Steps(migrationBuilder);
